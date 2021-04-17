@@ -1,0 +1,4 @@
+termcolor
+torch
+pandas
+matplotlib
